@@ -21,7 +21,7 @@ editor:
 ---
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Merriweather+Display:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
 .slide { color:#116466; background: #2c3531;}
 .slide h1{ color: #ffcb9a; font-family: 'Merriweather Display', serif; }
 .reveal p { color: #d1e8e2;}
