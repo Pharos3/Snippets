@@ -1,15 +1,5 @@
 ---
 
-Unfortunately, this is what sometimes happens when I choose to take Questions 
-
-Q: What do I do? 
-A: The secret is located 4 steps right, and two steps forward 
-Q: Do I walk or drive? Left foot first? Or right one? What stride? How big are these "steps?"
-
-Addicted to prescriptions.
-
----
-
 I will only tell you this: Even if every person in the world approved of you, precisely to the degree and specifications that you dictated One week later You would be lost in another form of anxiety.
     
 ---
