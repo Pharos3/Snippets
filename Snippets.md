@@ -21,15 +21,16 @@ editor:
 ---
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Display:wght@800&display=swap');
 .slide { color:#116466; background: #2c3531;}
-.slide h1{ color: #ffcb9a; font-family: 'Playfair Display', serif; }
+.slide h1{ color: #ffcb9a; font-family: 'Merriweather Display', serif; }
 .reveal p { color: #d1e8e2;}
 .reveal li{ color: #d1e8e2;}
 .reveal a { color: #89b08c; }
 .reveal .controls { color: #0a97b0; }
 .reveal .progress { color: #1b6ca8; }
 </style>
+
 
 ---
 
