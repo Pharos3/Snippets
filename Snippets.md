@@ -11,6 +11,8 @@ progress: true
 controls: true
 hideAddressBar: true
 autoSlide: 25000
+slideNumber: c/t
+
 
 # Editor settings
 editor:
