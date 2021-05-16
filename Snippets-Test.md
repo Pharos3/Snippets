@@ -1,3 +1,24 @@
+---
+# Configurations
+# black, white, league, beige, sky, simple, serif, night, moon, solarized
+theme: night
+# cube, page, concave, zoom, linear, fade, none, default 
+transition: slide
+#  Syntax highlighting style https://highlightjs.org/static/demo/
+highlight: solarized-dark
+backgroundTransition: zoom
+progress: true
+controls: true
+hideAddressBar: true
+
+# Editor settings
+editor:
+    fontSize: 14
+    theme: solarized_light
+    # keybinding: vim
+
+---
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap');
 .slide { color:#116466; background: #2c3531;}
@@ -7,10 +28,7 @@
 .reveal a { color: #89b08c; }
 .reveal .controls { color: #0a97b0; }
 .reveal .progress { color: #1b6ca8; }
-.slide: data-transition="zoom-in zoom-out"
-
 </style>
-
 ---
 
 I will only tell you this: Even if every person in the world approved of you, precisely to the degree and specifications that you dictated One week later You would be lost in another form of anxiety.
