@@ -10,6 +10,7 @@ backgroundTransition: zoom
 progress: true
 controls: true
 hideAddressBar: true
+autoSlide: 25000
 
 # Editor settings
 editor:
@@ -29,6 +30,7 @@ editor:
 .reveal .controls { color: #0a97b0; }
 .reveal .progress { color: #1b6ca8; }
 </style>
+
 ---
 
 I will only tell you this: Even if every person in the world approved of you, precisely to the degree and specifications that you dictated One week later You would be lost in another form of anxiety.
