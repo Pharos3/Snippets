@@ -10,7 +10,7 @@ backgroundTransition: zoom
 progress: true
 controls: true
 hideAddressBar: true
-autoSlide: 25000
+autoSlide: 30000
 slideNumber: c/t
 
 
